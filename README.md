@@ -1,4 +1,3 @@
-### Olá meu nome é Celson Fernando ✋
 ### Hello my name is Celson Fernando ✋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/celsonfernand0/)
@@ -7,7 +6,7 @@
 ![Celson GitHub stats](https://github-readme-stats.vercel.app/api?username=celsonfernand0&show_icons=true&theme=radical)
 
 
-### Tecnologias que eu uso para desenvolver
+
 ### Technologies I use to develop
 
 <div style ="display: inline block"><br/>
