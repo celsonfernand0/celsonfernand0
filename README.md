@@ -1,10 +1,9 @@
-### Hello my name is Celson Fernando ✋
+## Hello my name is Celson Fernando ✋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/celsonfernand0/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celson-fernando-1430b2276)
 
 ![Celson GitHub stats](https://github-readme-stats.vercel.app/api?username=celsonfernand0&show_icons=true&theme=radical)
-
 
 
 ### Technologies I use to develop
@@ -16,7 +15,7 @@
 </div>
 
 
-### Para que Plataformas eu desenvolvo ?
+
 ### What Platforms do I develop for?
 
 <div style ="display: inline block"><br/>
